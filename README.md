@@ -1,6 +1,6 @@
 # cruX Summer Group 2023
 
-Find all the material regarding cruX's Summer Group 2023 for Competitive Programming here.
+Find all the material regarding cruX's Summer Group 2023 for competitive coding here.
 
 ## Introduction
 
